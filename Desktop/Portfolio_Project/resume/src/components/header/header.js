@@ -15,7 +15,10 @@ export default class Header extends Component {
             </a>
             <ul id="nav" className="nav">
               <li className="current">
-                <a className="" href="http://localhost:3001/">
+                <a
+                  className=""
+                  href="http://ec2-13-126-98-113.ap-south-1.compute.amazonaws.com/s"
+                >
                   Home
                 </a>
               </li>
